@@ -1,0 +1,7 @@
+DBUtils~=3.0.3
+openai~=0.27.10
+pandas~=2.0.1
+numpy~=1.23.5
+requests~=2.29.0
+streamlit~=1.31.1
+azureopenai~=0.0.1
